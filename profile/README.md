@@ -1,3 +1,5 @@
+<img src="https://cdn.discordapp.com/attachments/1042931646720131183/1042932824489086987/HYSTOM.png" alt="Hystom Network"></img>
+
 <h1 align="center">Hey there, We're the Hystom Network™</h1>
 <h3 align="center">A modern Minecraft minigames network based on 1.19.2.</h3>
 
