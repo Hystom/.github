@@ -1,4 +1,4 @@
-<h1 align="center">#Hey there, We're the Hystom Network™</h1>
+<h1 align="center">Hey there, We're the Hystom Network™</h1>
 <h3 align="center">A modern Minecraft minigames network based on 1.19.2.</h3>
 
 <p align="left"> <a href="https://twitter.com/hystomnetwork" target="blank"><img src="https://img.shields.io/twitter/follow/hystomnetwork?logo=twitter&style=for-the-badge" alt="hystomnetwork" /></a> </p>
